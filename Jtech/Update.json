@@ -1,1 +1,10 @@
-Hhjjjjhgg
+{
+  "Visibility": "VISIBLE",
+  "Title": "What's New",
+  "Description": "Test Me\nApple\nRice",
+  "MainTextButton": "Update",
+  "Cancelable": true,
+  "CancelButtonText": "Cancel",
+  "DownloadLink": "https://google.com",
+  "Version": 1.1
+}
